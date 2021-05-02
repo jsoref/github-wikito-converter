@@ -1,0 +1,16 @@
+# See https://github.com/check-spelling/check-spelling/wiki/Configuration-Examples:-excludes
+(?:^|/)(?i)COPYRIGHT
+(?:^|/)(?i)LICEN[CS]E
+(?:^|/)package(?:-lock|)\.json$
+(?:^|/)vendor/
+/okhttp\.html$
+ignore$
+\.lock$
+\.map$
+\.min\.
+\.mod$
+\.pdf$
+\.png$
+^test/fixtures/samples/0/Foo\.md$
+^test/fixtures/samples/3/Foo\.md$
+^\.github/
